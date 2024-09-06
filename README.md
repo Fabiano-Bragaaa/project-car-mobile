@@ -59,4 +59,10 @@ npx expo start
 
 ```
 
+## 🌟 Veja Como Ficou
+
+Dê uma olhada no projeto em funcionamento e veja como tudo foi integrado de forma fluida e intuitiva. Acesse o site para conferir o resultado final.
+
+https://www.linkedin.com/feed/update/urn:li:activity:7237904956106690563/
+
 
